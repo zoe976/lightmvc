@@ -1,6 +1,6 @@
-# Osiguranje
+# Light MVC
 
-This is simple osiguranje project.
+This is simple php MVC project.
 
 ## Installation
 1. clone this repository
